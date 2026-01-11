@@ -8,7 +8,7 @@ This repository contains multiple AI/Deep Learning projects aimed at analyzing s
 
 ---
 
-## **1️⃣ Course Specific Performance Evaluation – Deep Learning Model**
+## **STUDENT EVALUATION SYSTEM AND PERSONALIZED RECOMMENDATION SYSTEM**
 
 ### Overview
 This project evaluates student performance for **specific courses** using a **deep learning predictive model**. It predicts student outcomes and identifies areas where students may require additional support.
@@ -41,6 +41,3 @@ This project evaluates student performance for **specific courses** using a **de
 5. **Visualization**:
    - Predicted vs actual grades
    - Performance trends
-
-ip install -r requirements.txt
-python model_training.py
