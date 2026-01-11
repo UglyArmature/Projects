@@ -38,10 +38,3 @@ This project evaluates student performance for **specific courses** using a **de
 5. **Visualization**:
    - Plot predicted vs actual grades
    - Highlight performance trends
-
-## How to Run
-```bash
-git clone <repo-url>
-cd Course-Performance-Evaluation
-pip install -r requirements.txt
-python model_training.py
